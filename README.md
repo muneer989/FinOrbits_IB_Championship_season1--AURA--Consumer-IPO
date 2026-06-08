@@ -8,56 +8,56 @@ Aura Consumer Sciences Ltd is a D2C wellness and nutrition company operating in 
 The objective of this research was to determine the company's intrinsic value and evaluate the attractiveness of its IPO using fundamental analysis and valuation techniques. 
 # Key Components
 # Company Analysis
--Business Model Assessment
--Revenue Drivers
--Competitive Positioning
--Growth Opportunities
--Risk Assessment
+- Business Model Assessment
+- Revenue Drivers
+- Competitive Positioning
+- Growth Opportunities
+- Risk Assessment
 # Industry Research
--Indian Wellness & Nutrition Industry
--D2C Market Trends
--Industry Growth Drivers
--Competitive Landscape
+- Indian Wellness & Nutrition Industry
+- D2C Market Trends
+- Industry Growth Drivers
+- Competitive Landscape
 # Financial Analysis
--Historical Financial Performance
--Margin Analysis
--Profitability Assessment
--Cash Flow Evaluation
--Ratio Analysis
+- Historical Financial Performance
+- Margin Analysis
+- Profitability Assessment
+- Cash Flow Evaluation
+- Ratio Analysis
 # Financial Modeling
--Revenue Forecasting
--Cost Forecasting
--EBITDA Projection
--Working Capital Forecasting
--FCFF Calculation
+- Revenue Forecasting
+- Cost Forecasting
+- EBITDA Projection
+- Working Capital Forecasting
+- FCFF Calculation
 # Valuation Methods
--Discounted Cash Flow (DCF)
--Relative Valuation (EV/EBITDA)
--Sensitivity Analysis
--Target Price Estimation
+- Discounted Cash Flow (DCF)
+- Relative Valuation (EV/EBITDA)
+- Sensitivity Analysis
+- Target Price Estimation
 # Investment Recommendation
 # Rating: Subscribe
 The analysis identified significant upside potential supported by:
--Strong revenue growth outlook
--Improving profitability
--Expanding D2C presence
--Attractive valuation relative to intrinsic value
--Healthy long-term industry growth prospects 
+- Strong revenue growth outlook
+- Improving profitability
+- Expanding D2C presence
+- Attractive valuation relative to intrinsic value
+- Healthy long-term industry growth prospects 
 # Tools & Skills Used
--Financial Modeling
--Equity Research
--Company Valuation
--DCF Analysis
--Relative Valuation
--Microsoft Excel
--PowerPoint
--Investment Analysis
--Financial Statement Analysis
+- Financial Modeling
+- Equity Research
+- Company Valuation
+- DCF Analysis
+- Relative Valuation
+- Microsoft Excel
+- PowerPoint
+- Investment Analysis
+- Financial Statement Analysis
 # Files Included
-📊 Financial Model (Excel)
-📑 Equity Research Report (PDF)
-📈 Investment Banking Championship Presentation (PPT)
-About Me
+- Financial Model (Excel)
+- Equity Research Report (PDF)
+- Investment Banking Championship Presentation (PPT)
+# About Me
 Muneer Ahmad
 MBA (Finance)
 NISM Series XV – Research Analyst Certified
